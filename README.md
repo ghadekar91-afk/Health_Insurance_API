@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🩺 Health Insurance Charges Prediction API
 
 This project is a Flask-based Machine Learning API that predicts medical insurance charges based on user details such as age, BMI, smoking status, and more.
@@ -124,3 +125,7 @@ children	Number of dependents
 smoker	Whether the person smokes (yes/no)
 region	Residential region (optional, dropped during preprocessing)
 charges	Insurance charges (target column)
+=======
+# Health_Insurance_API
+#MachineLearning #FlaskAPI #CodeSpyderTechnologies #Internship #PythonProject
+>>>>>>> a733c3fdca77c995a05f36ff906f74c30c29bc0f
